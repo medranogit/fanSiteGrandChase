@@ -1,0 +1,88 @@
+.space{
+    height: 20px;
+}
+
+.download{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.download h1{
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.download .box1{
+    background-color: rgb(73, 99, 248);
+    width: auto;
+    height: auto;
+    margin: 20px auto;
+    padding: 20px;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+
+.box1 p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.boxButtons{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+}
+
+.buttons_2{
+    background-color: rgb(117, 76, 184);
+    box-shadow: 0 4px 12px 2px rgba(0, 0, 0, 0.7);
+    vertical-align: top;
+    width: 40%;
+    height: auto;
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+
+.buttons_3{
+    background-color: rgb(117, 76, 184);
+    box-shadow: 0 4px 12px 2px rgba(0, 0, 0, 0.7);
+    vertical-align: top;
+    width: 27%;
+    height: auto;
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.boxButtons p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+table{
+    background: rgb(35, 35, 126);
+    margin: 20px auto;
+    width: 100%;
+}
+
+td, th{
+    padding: 12px 3px;
+    border: black 3px solid
+}
+
+.boximagem{
+    border: 3px black solid;
+
+}
+
+.boximagem img{
+    width: 100%;
+    height: auto;
+}

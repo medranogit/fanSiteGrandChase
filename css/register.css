@@ -1,0 +1,59 @@
+.register{
+    background-color: darkblue;
+    width: auto;
+    height: auto;
+    margin: 100px 200px;
+    border-radius: 20px;
+    padding: 20px
+}
+.register label{
+    font-size: 20px;
+    font-family: 'gc', Courier, monospace;
+}
+
+.register h1{
+    padding-bottom: 20px;
+    font-size: 4rem;
+    font-family: 'gc', Courier, monospace;
+}
+
+.register input{
+    margin: 10px auto;
+    width:  300px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.register select{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.register button{
+    margin: 20px 0;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 6px;
+    font-family: 'gc', Courier, monospace;
+    font-weight: bold;
+    border: 0px;
+}
+
+.register button:hover{
+    border: rgb(16, 120, 255) 3px solid;
+    background-color: rgb(78, 78, 248);
+    color: white;
+}
+
+.imNotaRobot{
+    width: 200px;
+    height: 30px;
+    background-color: red;
+    margin: auto    ;
+    padding-top: 12px;
+}
